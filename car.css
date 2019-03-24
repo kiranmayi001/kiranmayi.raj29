@@ -1,0 +1,16 @@
+body {
+    background-color: #FFFFFF;
+}
+#car-div {
+    position: relative;
+    width: 20px;
+    height: auto;
+    transform: rotate(90deg);
+    top: 100px;
+    left: 200px;
+}
+
+#car-img {
+    width: 100px;
+    height:50px;
+}
